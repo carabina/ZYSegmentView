@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>XMSegmentViewDemo.xcscheme</key>
+		<key>ZYSegmentView.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C95971241C1994C900CE4C83</key>
+		<key>C9E0E5181CCD09E800FAF9CE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C959713D1C1994C900CE4C83</key>
+		<key>C9E0E5311CCD09E800FAF9CE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C95971481C1994C900CE4C83</key>
+		<key>C9E0E53C1CCD09E800FAF9CE</key>
 		<dict>
 			<key>primary</key>
 			<true/>

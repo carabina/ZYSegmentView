@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0710"
+   LastUpgradeVersion = "0730"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C95971241C1994C900CE4C83"
-               BuildableName = "XMSegmentViewDemo.app"
-               BlueprintName = "XMSegmentViewDemo"
-               ReferencedContainer = "container:XMSegmentViewDemo.xcodeproj">
+               BlueprintIdentifier = "C9E0E5181CCD09E800FAF9CE"
+               BuildableName = "ZYSegmentView.app"
+               BlueprintName = "ZYSegmentView"
+               ReferencedContainer = "container:ZYSegmentView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C959713D1C1994C900CE4C83"
-               BuildableName = "XMSegmentViewDemoTests.xctest"
-               BlueprintName = "XMSegmentViewDemoTests"
-               ReferencedContainer = "container:XMSegmentViewDemo.xcodeproj">
+               BlueprintIdentifier = "C9E0E5311CCD09E800FAF9CE"
+               BuildableName = "ZYSegmentViewTests.xctest"
+               BlueprintName = "ZYSegmentViewTests"
+               ReferencedContainer = "container:ZYSegmentView.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C95971481C1994C900CE4C83"
-               BuildableName = "XMSegmentViewDemoUITests.xctest"
-               BlueprintName = "XMSegmentViewDemoUITests"
-               ReferencedContainer = "container:XMSegmentViewDemo.xcodeproj">
+               BlueprintIdentifier = "C9E0E53C1CCD09E800FAF9CE"
+               BuildableName = "ZYSegmentViewUITests.xctest"
+               BlueprintName = "ZYSegmentViewUITests"
+               ReferencedContainer = "container:ZYSegmentView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C95971241C1994C900CE4C83"
-            BuildableName = "XMSegmentViewDemo.app"
-            BlueprintName = "XMSegmentViewDemo"
-            ReferencedContainer = "container:XMSegmentViewDemo.xcodeproj">
+            BlueprintIdentifier = "C9E0E5181CCD09E800FAF9CE"
+            BuildableName = "ZYSegmentView.app"
+            BlueprintName = "ZYSegmentView"
+            ReferencedContainer = "container:ZYSegmentView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C95971241C1994C900CE4C83"
-            BuildableName = "XMSegmentViewDemo.app"
-            BlueprintName = "XMSegmentViewDemo"
-            ReferencedContainer = "container:XMSegmentViewDemo.xcodeproj">
+            BlueprintIdentifier = "C9E0E5181CCD09E800FAF9CE"
+            BuildableName = "ZYSegmentView.app"
+            BlueprintName = "ZYSegmentView"
+            ReferencedContainer = "container:ZYSegmentView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C95971241C1994C900CE4C83"
-            BuildableName = "XMSegmentViewDemo.app"
-            BlueprintName = "XMSegmentViewDemo"
-            ReferencedContainer = "container:XMSegmentViewDemo.xcodeproj">
+            BlueprintIdentifier = "C9E0E5181CCD09E800FAF9CE"
+            BuildableName = "ZYSegmentView.app"
+            BlueprintName = "ZYSegmentView"
+            ReferencedContainer = "container:ZYSegmentView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

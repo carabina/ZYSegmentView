@@ -1,18 +1,18 @@
 //
-//  XMSegmentViewDemoTests.m
-//  XMSegmentViewDemoTests
+//  ZYSegmentViewTests.m
+//  ZYSegmentViewTests
 //
-//  Created by ripper on 15/12/10.
-//  Copyright © 2015年 ripper. All rights reserved.
+//  Created by ripper on 16/4/24.
+//  Copyright © 2016年 ripper. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface XMSegmentViewDemoTests : XCTestCase
+@interface ZYSegmentViewTests : XCTestCase
 
 @end
 
-@implementation XMSegmentViewDemoTests
+@implementation ZYSegmentViewTests
 
 - (void)setUp {
     [super setUp];
