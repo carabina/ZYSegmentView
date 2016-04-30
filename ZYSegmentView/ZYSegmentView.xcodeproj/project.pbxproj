@@ -15,7 +15,7 @@
 		C9E0E52C1CCD09E800FAF9CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9E0E52A1CCD09E800FAF9CE /* LaunchScreen.storyboard */; };
 		C9E0E5371CCD09E800FAF9CE /* ZYSegmentViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E0E5361CCD09E800FAF9CE /* ZYSegmentViewTests.m */; };
 		C9E0E5421CCD09E800FAF9CE /* ZYSegmentViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E0E5411CCD09E800FAF9CE /* ZYSegmentViewUITests.m */; };
-		C9E0E5521CCD0A6700FAF9CE /* ZYSegmentView.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E0E5511CCD0A6700FAF9CE /* ZYSegmentView.m */; };
+		C9ECCA601CD45A7200F2F865 /* ZYSegmentView.m in Sources */ = {isa = PBXBuildFile; fileRef = C9ECCA5F1CD45A7200F2F865 /* ZYSegmentView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +52,8 @@
 		C9E0E53D1CCD09E800FAF9CE /* ZYSegmentViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZYSegmentViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9E0E5411CCD09E800FAF9CE /* ZYSegmentViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZYSegmentViewUITests.m; sourceTree = "<group>"; };
 		C9E0E5431CCD09E800FAF9CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C9E0E5501CCD0A6700FAF9CE /* ZYSegmentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYSegmentView.h; sourceTree = "<group>"; };
-		C9E0E5511CCD0A6700FAF9CE /* ZYSegmentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYSegmentView.m; sourceTree = "<group>"; };
+		C9ECCA5E1CD45A7200F2F865 /* ZYSegmentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYSegmentView.h; sourceTree = "<group>"; };
+		C9ECCA5F1CD45A7200F2F865 /* ZYSegmentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYSegmentView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +104,7 @@
 		C9E0E51B1CCD09E800FAF9CE /* ZYSegmentView */ = {
 			isa = PBXGroup;
 			children = (
-				C9E0E54F1CCD0A0D00FAF9CE /* ZYSegmentView */,
+				C9ECCA5D1CD45A7200F2F865 /* ZYSegmentView */,
 				C9E0E51F1CCD09E800FAF9CE /* AppDelegate.h */,
 				C9E0E5201CCD09E800FAF9CE /* AppDelegate.m */,
 				C9E0E5221CCD09E800FAF9CE /* ViewController.h */,
@@ -144,13 +144,13 @@
 			path = ZYSegmentViewUITests;
 			sourceTree = "<group>";
 		};
-		C9E0E54F1CCD0A0D00FAF9CE /* ZYSegmentView */ = {
+		C9ECCA5D1CD45A7200F2F865 /* ZYSegmentView */ = {
 			isa = PBXGroup;
 			children = (
-				C9E0E5501CCD0A6700FAF9CE /* ZYSegmentView.h */,
-				C9E0E5511CCD0A6700FAF9CE /* ZYSegmentView.m */,
+				C9ECCA5E1CD45A7200F2F865 /* ZYSegmentView.h */,
+				C9ECCA5F1CD45A7200F2F865 /* ZYSegmentView.m */,
 			);
-			name = ZYSegmentView;
+			path = ZYSegmentView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,7 +286,7 @@
 				C9E0E5241CCD09E800FAF9CE /* ViewController.m in Sources */,
 				C9E0E5211CCD09E800FAF9CE /* AppDelegate.m in Sources */,
 				C9E0E51E1CCD09E800FAF9CE /* main.m in Sources */,
-				C9E0E5521CCD0A6700FAF9CE /* ZYSegmentView.m in Sources */,
+				C9ECCA601CD45A7200F2F865 /* ZYSegmentView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -512,6 +512,7 @@
 				C9E0E5481CCD09E800FAF9CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C9E0E5491CCD09E800FAF9CE /* Build configuration list for PBXNativeTarget "ZYSegmentViewTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +521,7 @@
 				C9E0E54B1CCD09E800FAF9CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C9E0E54C1CCD09E800FAF9CE /* Build configuration list for PBXNativeTarget "ZYSegmentViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +530,7 @@
 				C9E0E54E1CCD09E800FAF9CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
